@@ -1,5 +1,5 @@
 /*Mayor que
-librerías*/
+librerÃ­as*/
 #include<stdio.h>
 #include<conio.h>
 main(){/*Variables*/
