@@ -1,4 +1,4 @@
-/*Incluye la librería*/
+/*Incluye la librerÃ­a*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
@@ -28,7 +28,7 @@ main(){
 	printf("\n\n\t\t\t\t\t TAREA 2--Ecuaciones cuadraticas\n");
 	printf("\t\t\t\t\t Por: Jos%c Adri%cn Rodr%cguez Gonz%clez",r,s,i,s);
 	printf("\n\t\t\t\t\t Tercer Semestre ");
-	/*Petición de datos*/
+	/*PeticiÃ³n de datos*/
 	printf("\nVamos a realizar una ecuacion cuadratica");
 	printf(" \n Inserte a: ");
 	scanf("%f",&a);
