@@ -1,4 +1,4 @@
-/*Librerías*/
+/*LibrerÃ­as*/
 #include<stdio.h>
 #include<conio.h>
 
@@ -30,7 +30,7 @@ char e1= 130,a1=160,i1=161;
 	printf("\n\n\t\t\t\t\t Participacion 3-Area y volumen de un prisma\n");
 	printf("\t\t\t\t\t Por: Jos%c Adri%cn Rodr%cguez Gonz%clez",e1,a1,i1,a1);
 	printf("\n\t\t\t\t\t Tercer Semestre ");
-	/*Petición de datos*/
+	/*PeticiÃ³n de datos*/
 	printf("\n\n\t\t\tVamos a sacar el volume y el area de un prisma\t Primero, introduzca las dimensiones");
 	printf("\n\t\t\t Altura: ");
 	scanf("%f",&h);
