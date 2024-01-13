@@ -1,4 +1,4 @@
-/*Incluye librerías*/
+/*Incluye librerÃ­as*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
@@ -29,7 +29,7 @@ main(){
 	printf("\t\t\t\t\t Por: Jos%c Adri%cn Rodr%cguez Gonz%clez",r,s,i,s);
 	printf("\n\t\t\t\t\t Tercer Semestre ");
 
-	/*Petición de datos*/
+	/*PeticiÃ³n de datos*/
 	printf("\nVamos a realizar un sistema de ecuaciones de 2x2");
 	printf("\nInserte el coeficiente  a ");
 	scanf("%f",&a);
@@ -43,7 +43,7 @@ main(){
 	scanf("%f",&e);
 	printf("Inserte el coeficiente f ");
 	scanf("%f",&f); 
-    /*Resoluciónd de sistema de ecuacion por suma y resta*/
+    /*ResoluciÃ³nd de sistema de ecuacion por suma y resta*/
 	y = (a*f - c*d)/(a*e - b*d);
 	x = (c - b*y)/a;
 	/*Se imprime el resultado*/
