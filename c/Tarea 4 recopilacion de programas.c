@@ -55,7 +55,7 @@ main(){
 		printf("\n\n\t\t\t\t\t Presione enter para continuar");
 		getch();
 		system("cls");
-		/*Menú*/
+		/*MenÃº*/
 		printf("\n\n\t\t\tMENU PRINCIPAL DE OPCIONES\n\n");
 		printf("\t1.- SALUDO\n");
 		printf("\t2.- PORTADA\n");
@@ -282,9 +282,9 @@ main(){
 					printf("\n\t\t\tFicha de formulario:Respuestas proporcionadas\n");
 					/*Datos escritos en el formulario*/
 			
-					printf("\n\tNombre: %s %s %s\t\tTelef%cno:%s \n",name,surname1,surname2,om,telephone);//Nombre y telefóno
+					printf("\n\tNombre: %s %s %s\t\tTelef%cno:%s \n",name,surname1,surname2,om,telephone);//Nombre y telefÃ³no
 					printf("\n\tFecha de nacimiento: %s \n" ,date);		//Fecha de nacimiento	
-					printf("\n\tDirecci%cn:%s, %s, #%s, %s, %s, ",om,street,col,num,city,state);//Dirección		
+					printf("\n\tDirecci%cn:%s, %s, #%s, %s, %s, ",om,street,col,num,city,state);//DirecciÃ³n		
 					printf("\n\n\t\t\t%cDesea repetir el programa?  (1.S%c   2.No) ",pre,im);
 					scanf("%i",&opcion);
 					}while(opcion==1);
@@ -379,7 +379,7 @@ main(){
 					scanf("%f",&e);
 					printf("\t\t\tInserte el coeficiente f: ");
 					scanf("%f",&f); 
-			    	/*Resoluciónd de sistema de ecuacion por suma y resta*/
+			    	/*ResoluciÃ³nd de sistema de ecuacion por suma y resta*/
 					y = (a*f - c*d)/(a*e - b*d);
 					x = (c - b*y)/a;
 					/*Se imprime el resultado*/
@@ -422,7 +422,7 @@ main(){
 					for(cont1 =0; (letras1[cont1]=getchar()) !='\n';++cont1);
 					/*guardar el contador de caracteres*/
 						auxiliar1=cont1;
-					/*escribir la línea en mayúsculas*/
+					/*escribir la lÃ­nea en mayÃºsculas*/
 					for(cont1=0; cont1<auxiliar1; ++cont1)
 						putchar(toupper(letras1[cont1]));
 					putchar('\n');
