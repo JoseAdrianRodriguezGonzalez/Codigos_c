@@ -1,5 +1,5 @@
 /*menor que*/
-/*Librerías*/
+/*LibrerÃ­as*/
 #include<stdio.h>
 #include<conio.h>
 main(){
