@@ -1,6 +1,6 @@
 /*Numero par e impar*/
-#include<stdio.h>//librerías
-#include<conio.h>//Liberías
+#include<stdio.h>//librerÃ­as
+#include<conio.h>//LiberÃ­as
  main(){
 	int a,residuo;
 	printf("Introduce un numero: ");
