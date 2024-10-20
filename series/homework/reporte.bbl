@@ -1,0 +1,16 @@
+\begin{thebibliography}{}
+
+\bibitem[Chandra et~al., 2013]{chandra2013application}
+Chandra, R., Rawat, S., and Jain, T. (2013).
+\newblock Application of bitwise operators in c.
+\newblock {\em International Journal of Scientific and Engineering Research},
+  4(11):1--4.
+
+\bibitem[Nafi'ah et~al., 2020]{article}
+Nafi'ah, R., Kurniawan, W., Setiawan, J., and Umam, K. (2020).
+\newblock Bit manipulation: Conditional statement using bit-wise operators with
+  c++.
+\newblock {\em IJID (International Journal on Informatics for Development)},
+  9:9.
+
+\end{thebibliography}
