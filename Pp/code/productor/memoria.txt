@@ -1,0 +1,1 @@
+valgrind --leak-check=yes --track-origins ./sempc 1 imlist2.txt 5

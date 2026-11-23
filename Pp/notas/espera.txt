@@ -1,0 +1,8 @@
+Se puede coordinar el acceos a regiones cricas usando turnos.
+Cada hilo debe identificarse con un índice.
+Seusa una variable para establecer turnos:
+turn=(turn+1)%n
+
+Un hilo hace uso de la región crítica solo cuando es su turno
+
+el hilo debe ceder su turno cuando termina

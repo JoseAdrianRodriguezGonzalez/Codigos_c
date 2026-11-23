@@ -1,0 +1,6 @@
+rea un nuevohilo
+int pthread_create(
+        pthread* thread,
+        const pthread_attr_t* attr,
+        void* thread_routine,
+        void* args)

@@ -1,0 +1,2 @@
+Tarea 1 multiplicación de matriz y vector 
+Tanto el vector como la matriz deben de estar en un archivo diferente 
